@@ -1,0 +1,26 @@
+{
+  "name": "theinternetisuroyster",
+  "version": "1.0.0",
+  "description": "home for undecided.js users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doodybrains/theinternetisuroyster.git"
+  },
+  "keywords": [
+    "undecided.js",
+    "theinternetisuroyster",
+    "doodybrains",
+    "emma",
+    "rae"
+  ],
+  "author": "doodybrains",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doodybrains/theinternetisuroyster/issues"
+  },
+  "homepage": "https://github.com/doodybrains/theinternetisuroyster#readme"
+}
